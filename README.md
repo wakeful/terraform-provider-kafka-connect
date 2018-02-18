@@ -8,6 +8,7 @@ Install latest version:
 ```
 go get -u github.com/wakeful/terraform-provider-kafka-connect
 ```
+or download binary from [release](https://github.com/wakeful/terraform-provider-kafka-connect/releases) page.
 
 Register plugin in your local `.terraformrc`:
 ```
