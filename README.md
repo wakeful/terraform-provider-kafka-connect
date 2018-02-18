@@ -1,6 +1,8 @@
+# terraform-provider-kafka-connect
+
 [Terraform](https://www.terraform.io) provider for [Kafka Connect](https://docs.confluent.io/current/connect/intro.html)
 
-# Installing
+## Installing
 
 Install latest version:
 ```
@@ -16,7 +18,7 @@ providers {
 EOF
 ```
 
-# Example
+## Example
 
 ```hcl
 provider "kafkaconnect" {
